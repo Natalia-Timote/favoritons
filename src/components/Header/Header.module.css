@@ -1,0 +1,17 @@
+.header {
+    background-color: var(--black);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2em;
+}
+
+.image {
+    width: 35%;
+    height: 35%;
+}
+
+.nav {
+    display: flex;
+    gap: 24px;
+}
