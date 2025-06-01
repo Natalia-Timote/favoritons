@@ -3,11 +3,15 @@
         "id": 1,
         "title": "As Meninas Superpoderosas",
         "image": "imagem",
+        "date": "1998",
+        "description": "Três meninas com superpoderes enfrentam vilões para salvar Townsville.",
         "link-video": "link do vídeo"
     },
     {
         "id": 2,
         "title": "Os Padrinhos Mágicos",
+        "date": "2001",
+        "description": "Um garoto ganha padrinhos mágicos que realizam seus desejos, nem sempre com bons resultados.",
         "image": "imagem",
         "link-video": "link do vídeo"
     },
@@ -15,24 +19,32 @@
         "id": 3,
         "title": "O Pequeno Urso",
         "image": "imagem",
+        "date": "1995",
+        "description": "Acompanhe as aventuras calmas e educativas de um ursinho e seus amigos.",
         "link-video": "link do vídeo"
     },
     {
         "id": 4,
         "title": "Os Camundongos Aventureiros",
         "image": "imagem",
+        "date": "1997",
+        "description": "Dois ratinhos primos viajam o mundo resolvendo mistérios.",
         "link-video": "link do vídeo"
     },
     {
         "id": 5,
         "title": "Castelo Rá-tim-bum",
         "image": "imagem",
+        "date": "1994",
+        "description": "Série educativa brasileira com personagens fantásticos vivendo em um castelo mágico.",
         "link-video": "link do vídeo"
     },
     {
         "id": 6,
         "title": "Os Sete Monstrinhos",
         "image": "imagem",
+        "date": "2000",
+        "description": "Sete irmãos monstros vivem situações engraçadas enquanto aprendem lições valiosas.",
         "link-video": "link do vídeo"
     }
 ]
