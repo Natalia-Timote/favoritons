@@ -1,0 +1,45 @@
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+.card {
+    background-color: var(--white);
+    height: 560px;
+    width: 400px;
+    box-shadow: 0 16px 16px 0 rgba(0, 0, 0, 0.8);
+    border-radius: 8px;
+}
+
+.image {
+    height: 60%;
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+}
+
+.cardinfo {
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 8px;
+    padding: 0;
+    gap: 16px;
+}
+
+.title {
+    text-align: center;
+    color: var(--black);
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.favorite {
+    font-size: 32px;
+    background-color: transparent;
+    text-decoration: none;
+    border: none;
+}
+
