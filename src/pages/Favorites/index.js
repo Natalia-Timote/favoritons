@@ -4,8 +4,11 @@ import Title from "components/Title";
 import { TiHeart } from "react-icons/ti";
 import Card from "components/Card";
 import Container from "components/Container";
+import { useFavoriteContext } from "contexts/FavoriteContext";
 
 export default function Favorites() {
+    const { favorite } = useFavoriteContext();
+
     return (
         <>
             <Banner url="favorites" />
@@ -13,12 +16,9 @@ export default function Favorites() {
                 <h1>Meus desenhos favoritos <TiHeart /></h1>
             </Title>
             <Container>
-                <Card
-                    image="images/cartoons/as-meninas-super-poderosas.png"
-                    title="As Meninas Super-Poderosas"
-                    date="1998"
-                    description="Três meninas com superpoderes enfrentam vilões para salvar Townsville."
-                />
+                {favorite.map((fav) => {
+                    return <Card {...fav} key={fav.id} />
+                })}
             </Container>
         </>
     )

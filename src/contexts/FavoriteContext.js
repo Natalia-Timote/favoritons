@@ -28,13 +28,17 @@ export function useFavoriteContext() {
             newList.push(newFavorite);
             return setFavorite(newList);
         }
+    }
 
+    function removeFavorite(newFavorite) {
+        const newList = [...favorite];
         newList.splice(newList.indexOf(newFavorite), 1);
         return setFavorite(newList);
     }
     
     return {
         favorite,
-        addFavorite
+        addFavorite,
+        removeFavorite
     }
 }

@@ -13,8 +13,11 @@ export default function Header() {
                <HeaderLink url="./">
                 Página inicial 
                </HeaderLink>
+               <HeaderLink url="./HalfFavorites">
+                Gostava, mas nem tanto!
+               </HeaderLink>
                <HeaderLink url="./Favorites">
-                Favoritos
+                Meus favoritos
                </HeaderLink>
             </nav>
         </header>
