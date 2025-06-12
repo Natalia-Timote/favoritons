@@ -1,6 +1,6 @@
 import styles from "./Card.module.css";
 import { TiHeartFullOutline, TiHeartHalfOutline, TiHeartOutline } from "react-icons/ti";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useFavoriteContext } from "contexts/FavoriteContext";
 import { useHalfFavoriteContext } from "contexts/HalfFavoriteContext";
 
@@ -27,9 +27,25 @@ export default function Card({ id, image, title, date, description }) {
 
         if (count === 2) {
             removeFavorite({ id, image, title, date, description });
-            setIsFavorite(<TiHeartOutline />)
+            setIsFavorite(<TiHeartOutline />);
         }
     }
+
+    useEffect(() => {
+        const inFavorite = favorite.some(item => item.id === id);
+        const inHalfFavorite = halfFavorite.some(item => item.id === id);
+
+        if (inFavorite) {
+            setCount(2);
+            setIsFavorite(<TiHeartFullOutline />);
+        } else if (inHalfFavorite) {
+            setCount(1);
+            setIsFavorite(<TiHeartHalfOutline />);
+        } else {
+            setCount(0);
+            setIsFavorite(<TiHeartOutline />);
+        }
+    }, [favorite, halfFavorite, id]);
 
     return (
         <div className={styles.card}>
