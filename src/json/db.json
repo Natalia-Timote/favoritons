@@ -2,49 +2,55 @@
     {
         "id": 1,
         "title": "As Meninas Superpoderosas",
-        "image": "imagem",
+        "image": "https://yt3.googleusercontent.com/ytc/AIdro_kqpdf3OfJefCyU50NcXRSr7XPdN6imqSF83vPbbWq4cBA=s160-c-k-c0x00ffffff-no-rj",
         "date": "1998",
-        "description": "Três meninas com superpoderes enfrentam vilões para salvar Townsville.",
-        "link-video": "link do vídeo"
+        "description": "Açúcar, tempero e tudo que há de bom! A cidade de Townsville é uma metrópoles linda e movimentada, mas não se engane! O mal está sempre de pé! Somente Florzinha, Lindinha e Docinho - três pequenas garotas com super poderes extraordinários - podem manter os caras maus à distância. As Meninas Superpoderosas são três pequenas garotinhas superpoderosas que estão aí para salvar o mundo.",
+        "video": "https://www.youtube.com/embed/v0ZCGjtHKOo?si=dznq_rUzCgfl0CPD",
+        "reference": "https://www.youtube.com/@AsMeninasSuperpoderosasBR"
     },
     {
         "id": 2,
         "title": "Os Padrinhos Mágicos",
         "date": "2001",
-        "description": "Um garoto ganha padrinhos mágicos que realizam seus desejos, nem sempre com bons resultados.",
-        "image": "imagem",
-        "link-video": "link do vídeo"
+        "description": "Timmy Turner é um garoto comum... com dois padrinhos muito fora do comum: Cosmo e Wanda! Eles são fadas mágicas disfarçadas de peixes que realizam os desejos de Timmy – o problema é que nem sempre as coisas saem como o planejado. Entre aventuras malucas, vilões excêntricos e regras mágicas complicadas, Timmy tenta melhorar sua vida, mas acaba criando ainda mais confusão. Diversão garantida com humor rápido, situações absurdas e, claro, muita magia!",
+        "image": "https://i.ytimg.com/vi/oCafpSHqRaU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBBvThSbJUaGosNWJ8iYSSjBE6GXg",
+        "video": "https://www.youtube.com/embed/jZMFFWe52lA?si=EIm1gp0eNkg6GU11",
+        "reference": "https://www.youtube.com/@opequenourso7387"
     },
     {
         "id": 3,
         "title": "O Pequeno Urso",
-        "image": "imagem",
+        "image": "https://yt3.googleusercontent.com/ytc/AIdro_mZLkIyi0W1rWWVell3D96s18jsN_ZH3R6PJvqniHo_Ng=s160-c-k-c0x00ffffff-no-rj",
         "date": "1995",
-        "description": "Acompanhe as aventuras calmas e educativas de um ursinho e seus amigos.",
-        "link-video": "link do vídeo"
+        "description": "O Pequeno Urso é uma série encantadora que acompanha o dia a dia de um ursinho curioso e carinhoso enquanto ele explora o mundo ao seu redor. Ao lado de seus amigos – como a Galinha, o Gato, o Pato e a corajosa Emily – o Pequeno Urso vive histórias simples, cheias de imaginação, aprendizado e valores como amizade, respeito e gentileza. Com um ritmo calmo e uma narrativa acolhedora, é perfeito para crianças em fase de descobertas.",
+        "video": "https://www.youtube.com/embed/AzH89pabFDs?si=ViRwr0niYmOR9cK3",
+        "reference": "https://www.youtube.com/@TreehouseDirectBR"
     },
     {
         "id": 4,
         "title": "Os Camundongos Aventureiros",
-        "image": "imagem",
+        "image": "https://i.ytimg.com/an_webp/4cAXS2dU_4E/mqdefault_6s.webp?du=3000&sqp=CP77vMIG&rs=AOn4CLA9vX6pU97P3ksfMQK0Li1oShRlBg",
         "date": "1997",
-        "description": "Dois ratinhos primos viajam o mundo resolvendo mistérios.",
-        "link-video": "link do vídeo"
+        "description": "Emily e Alexander formam uma dupla muito especial! Esses dois primos ratinhos viajam pelo mundo desvendando mistérios, ajudando novos amigos e vivendo grandes aventuras. Cada lugar que visitam traz um desafio diferente, e juntos eles usam inteligência, coragem e trabalho em equipe para resolver os problemas que aparecem pelo caminho. Com histórias cheias de descobertas culturais e valores como amizade, cooperação e respeito, Os Camundongos Aventureiros mostram que o espírito de aventura não tem tamanho!",
+        "video": "https://www.youtube.com/embed/7XokpexHZPk?si=3JGB10PZEEUwIR75",
+        "reference": "https://www.youtube.com/@RipToonsBR/featured"
     },
     {
         "id": 5,
         "title": "Castelo Rá-tim-bum",
-        "image": "imagem",
+        "image": "https://yt3.googleusercontent.com/ytc/AIdro_lJ98aaxA2wGqDOfvZFnbrpQ_wcR_bxfZIWaJPUBdTr3mE=s160-c-k-c0x00ffffff-no-rj",
         "date": "1994",
-        "description": "Série educativa brasileira com personagens fantásticos vivendo em um castelo mágico.",
-        "link-video": "link do vídeo"
+        "description": "No Castelo Rá-Tim-Bum, tudo pode acontecer! Nino, um jovem aprendiz de feiticeiro de 300 anos, vive em um castelo mágico ao lado de seus tios, Morgana e Doutor Victor. Por lá, a cada dia chegam amigos para brincar, aprender e explorar o mundo do conhecimento com muita imaginação. Entre experiências científicas, histórias encantadas, músicas educativas e personagens inesquecíveis como o Ratinho, a Caipora e o Porteiro, a série é um convite ao aprendizado criativo e à fantasia. Uma verdadeira viagem ao universo da ciência, da cultura e da imaginação infantil!",
+        "video": "https://www.youtube.com/embed/RNfX3mVAIm4?si=BfD5XE7zTYVdMu6D",
+        "reference": "https://www.youtube.com/@casteloratimbum"
     },
     {
         "id": 6,
         "title": "Os Sete Monstrinhos",
-        "image": "imagem",
+        "image": "https://i.ytimg.com/an_webp/XkVxhRwyO54/mqdefault_6s.webp?du=3000&sqp=CITgvMIG&rs=AOn4CLCWEjXl_mVkZLL-YxxM1bXOvfP0zg",
         "date": "2000",
-        "description": "Sete irmãos monstros vivem situações engraçadas enquanto aprendem lições valiosas.",
-        "link-video": "link do vídeo"
+        "description": "Os Sete Monstrinhos acompanham a rotina de uma família muito especial: sete irmãos grandalhões, engraçados e com personalidades bem diferentes! Tem o Um, o grandalhão que adora se exibir, o Dois, que vive pendurado de cabeça para baixo, o Três, cheio de histórias malucas... e assim por diante, até o Sete, o mais novinho. Juntos, eles vivem situações divertidas e aprendem lições importantes sobre convivência, respeito, amizade e família. Uma série leve, colorida e cheia de humor, perfeita para trabalhar emoções e o valor das diferenças.",
+        "video": "https://www.youtube.com/embed/XkVxhRwyO54?si=hwLBotbJtnCuDI2r",
+        "reference": "https://www.youtube.com/watch?v=XkVxhRwyO54"
     }
 ]

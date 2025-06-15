@@ -3,6 +3,7 @@ import { TiHeartFullOutline, TiHeartHalfOutline, TiHeartOutline } from "react-ic
 import { useEffect, useState } from "react";
 import { useFavoriteContext } from "contexts/FavoriteContext";
 import { useHalfFavoriteContext } from "contexts/HalfFavoriteContext";
+import { Link } from "react-router-dom";
 
 export default function Card({ id, image, title, date, description }) {
     const [count, setCount] = useState(0);
@@ -49,9 +50,11 @@ export default function Card({ id, image, title, date, description }) {
 
     return (
         <div className={styles.card}>
-            <img src={image} alt={title} className={styles.image} />
-            <div className={styles.cardinfo}>
+            <Link className={styles.link} to={`/${id}`}>
+                <img src={image} alt={title} className={styles.image} />
                 <h2 className={styles.title}>{title}</h2>
+            </Link>
+            <div className={styles.cardinfo}>
                 <h3>{date}</h3>
                 <p>{description}</p>
                 <button
@@ -61,6 +64,6 @@ export default function Card({ id, image, title, date, description }) {
                     }}
                 >{isFavorite}</button>
             </div>
-        </div>
+        </div >
     )
 }
