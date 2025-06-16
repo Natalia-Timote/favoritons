@@ -4,6 +4,7 @@ import Title from "components/Title";
 import { useParams } from "react-router-dom";
 import cartoons from "json/db.json";
 import Container from "components/Container";
+import NotFound from "pages/NotFound";
 
 
 export default function Player() {
@@ -11,6 +12,10 @@ export default function Player() {
     const video = cartoons.find((video) => {
         return video.id === Number(params.id);
     });
+
+    if(!video) {
+        return <NotFound />
+    }
 
     return (
         <>

@@ -1,0 +1,8 @@
+.message {
+    display:flex;
+    flex-direction: column;
+}
+
+.message p {
+    font-size: 24px;
+}
