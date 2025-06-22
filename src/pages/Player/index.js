@@ -13,17 +13,17 @@ export default function Player() {
         return video.id === Number(params.id);
     });
 
-    if(!video) {
+    if (!video) {
         return <NotFound />
     }
 
     return (
         <>
+            <Banner url="home" />
+            <Title>
+                <h1>{video.title}</h1>
+            </Title>
             <Container className={styles.container}>
-                <Banner url="home" />
-                <Title>
-                    <h1>Player</h1>
-                </Title>
                 <iframe
                     width="100%"
                     src={video.video}

@@ -1,5 +1,6 @@
 .link {
-    font-size: 24px;
+    text-align: center;
+    font-size: 16px;
     font-weight: 600;
     color: var(--white);
     text-decoration: none;

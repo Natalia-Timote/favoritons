@@ -2,55 +2,121 @@
     {
         "id": 1,
         "title": "As Meninas Superpoderosas",
-        "image": "https://yt3.googleusercontent.com/ytc/AIdro_kqpdf3OfJefCyU50NcXRSr7XPdN6imqSF83vPbbWq4cBA=s160-c-k-c0x00ffffff-no-rj",
+        "image": "/images/cartoons/as-meninas-super-poderosas.png",
         "date": "1998",
-        "description": "Açúcar, tempero e tudo que há de bom! A cidade de Townsville é uma metrópoles linda e movimentada, mas não se engane! O mal está sempre de pé! Somente Florzinha, Lindinha e Docinho - três pequenas garotas com super poderes extraordinários - podem manter os caras maus à distância. As Meninas Superpoderosas são três pequenas garotinhas superpoderosas que estão aí para salvar o mundo.",
-        "video": "https://www.youtube.com/embed/v0ZCGjtHKOo?si=dznq_rUzCgfl0CPD",
-        "reference": "https://www.youtube.com/@AsMeninasSuperpoderosasBR"
+        "description": "Criadas acidentalmente pelo Professor Utônio, usando o Elemento X, As Meninas Superpoderosas são três garotinhas com superpoderes incríveis! Florzinha é a líder inteligente, Lindinha é doce e carinhosa, e Docinho é corajosa e cheia de atitude. Juntas, elas protegem a cidade de Townsville de monstros, vilões e ameaças perigosas. Uma série cheia de ação, humor e lições sobre coragem e trabalho em equipe!",
+        "video": "https://www.youtube.com/embed/v0ZCGjtHKOo?si=dznq_rUzCgfl0CPD"
     },
     {
         "id": 2,
         "title": "Os Padrinhos Mágicos",
+        "image": "/images/cartoons/os-padrinhos-magicos.jpg",
         "date": "2001",
         "description": "Timmy Turner é um garoto comum... com dois padrinhos muito fora do comum: Cosmo e Wanda! Eles são fadas mágicas disfarçadas de peixes que realizam os desejos de Timmy – o problema é que nem sempre as coisas saem como o planejado. Entre aventuras malucas, vilões excêntricos e regras mágicas complicadas, Timmy tenta melhorar sua vida, mas acaba criando ainda mais confusão. Diversão garantida com humor rápido, situações absurdas e, claro, muita magia!",
-        "image": "https://i.ytimg.com/vi/oCafpSHqRaU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBBvThSbJUaGosNWJ8iYSSjBE6GXg",
-        "video": "https://www.youtube.com/embed/jZMFFWe52lA?si=EIm1gp0eNkg6GU11",
-        "reference": "https://www.youtube.com/@opequenourso7387"
+        "video": "https://www.youtube.com/embed/jZMFFWe52lA?si=EIm1gp0eNkg6GU11"
     },
     {
         "id": 3,
         "title": "O Pequeno Urso",
-        "image": "https://yt3.googleusercontent.com/ytc/AIdro_mZLkIyi0W1rWWVell3D96s18jsN_ZH3R6PJvqniHo_Ng=s160-c-k-c0x00ffffff-no-rj",
+        "image": "/images/cartoons/o-pequeno-urso.jpg",
         "date": "1995",
         "description": "O Pequeno Urso é uma série encantadora que acompanha o dia a dia de um ursinho curioso e carinhoso enquanto ele explora o mundo ao seu redor. Ao lado de seus amigos – como a Galinha, o Gato, o Pato e a corajosa Emily – o Pequeno Urso vive histórias simples, cheias de imaginação, aprendizado e valores como amizade, respeito e gentileza. Com um ritmo calmo e uma narrativa acolhedora, é perfeito para crianças em fase de descobertas.",
-        "video": "https://www.youtube.com/embed/AzH89pabFDs?si=ViRwr0niYmOR9cK3",
-        "reference": "https://www.youtube.com/@TreehouseDirectBR"
+        "video": "https://www.youtube.com/embed/AzH89pabFDs?si=ViRwr0niYmOR9cK3"
     },
     {
         "id": 4,
         "title": "Os Camundongos Aventureiros",
-        "image": "https://i.ytimg.com/an_webp/4cAXS2dU_4E/mqdefault_6s.webp?du=3000&sqp=CP77vMIG&rs=AOn4CLA9vX6pU97P3ksfMQK0Li1oShRlBg",
+        "image": "/images/cartoons/os-camundongos-aventureiros.jpg",
         "date": "1997",
         "description": "Emily e Alexander formam uma dupla muito especial! Esses dois primos ratinhos viajam pelo mundo desvendando mistérios, ajudando novos amigos e vivendo grandes aventuras. Cada lugar que visitam traz um desafio diferente, e juntos eles usam inteligência, coragem e trabalho em equipe para resolver os problemas que aparecem pelo caminho. Com histórias cheias de descobertas culturais e valores como amizade, cooperação e respeito, Os Camundongos Aventureiros mostram que o espírito de aventura não tem tamanho!",
-        "video": "https://www.youtube.com/embed/7XokpexHZPk?si=3JGB10PZEEUwIR75",
-        "reference": "https://www.youtube.com/@RipToonsBR/featured"
+        "video": "https://www.youtube.com/embed/7XokpexHZPk?si=3JGB10PZEEUwIR75"
     },
     {
         "id": 5,
         "title": "Castelo Rá-tim-bum",
-        "image": "https://yt3.googleusercontent.com/ytc/AIdro_lJ98aaxA2wGqDOfvZFnbrpQ_wcR_bxfZIWaJPUBdTr3mE=s160-c-k-c0x00ffffff-no-rj",
+        "image": "/images/cartoons/castelo-ra-tim-bum.jpg",
         "date": "1994",
         "description": "No Castelo Rá-Tim-Bum, tudo pode acontecer! Nino, um jovem aprendiz de feiticeiro de 300 anos, vive em um castelo mágico ao lado de seus tios, Morgana e Doutor Victor. Por lá, a cada dia chegam amigos para brincar, aprender e explorar o mundo do conhecimento com muita imaginação. Entre experiências científicas, histórias encantadas, músicas educativas e personagens inesquecíveis como o Ratinho, a Caipora e o Porteiro, a série é um convite ao aprendizado criativo e à fantasia. Uma verdadeira viagem ao universo da ciência, da cultura e da imaginação infantil!",
-        "video": "https://www.youtube.com/embed/RNfX3mVAIm4?si=BfD5XE7zTYVdMu6D",
-        "reference": "https://www.youtube.com/@casteloratimbum"
+        "video": "https://www.youtube.com/embed/RNfX3mVAIm4?si=BfD5XE7zTYVdMu6D"
     },
     {
         "id": 6,
         "title": "Os Sete Monstrinhos",
-        "image": "https://i.ytimg.com/an_webp/XkVxhRwyO54/mqdefault_6s.webp?du=3000&sqp=CITgvMIG&rs=AOn4CLCWEjXl_mVkZLL-YxxM1bXOvfP0zg",
+        "image": "/images/cartoons/os-sete-monstrinhos.jpg",
         "date": "2000",
         "description": "Os Sete Monstrinhos acompanham a rotina de uma família muito especial: sete irmãos grandalhões, engraçados e com personalidades bem diferentes! Tem o Um, o grandalhão que adora se exibir, o Dois, que vive pendurado de cabeça para baixo, o Três, cheio de histórias malucas... e assim por diante, até o Sete, o mais novinho. Juntos, eles vivem situações divertidas e aprendem lições importantes sobre convivência, respeito, amizade e família. Uma série leve, colorida e cheia de humor, perfeita para trabalhar emoções e o valor das diferenças.",
-        "video": "https://www.youtube.com/embed/XkVxhRwyO54?si=hwLBotbJtnCuDI2r",
-        "reference": "https://www.youtube.com/watch?v=XkVxhRwyO54"
+        "video": "https://www.youtube.com/embed/XkVxhRwyO54?si=hwLBotbJtnCuDI2r"
+    },
+    {
+        "id": 7,
+        "title": "Pingu",
+        "image": "/images/cartoons/pingu.jpg",
+        "date": "1986",
+        "description": "Pingu é um pinguim travesso que vive com sua família no Polo Sul. Em cada episódio, ele se envolve em pequenas aventuras do dia a dia, como ir à escola, brincar com amigos ou ajudar em casa... sempre com aquele idioma divertido que só os personagens entendem! Uma série que encanta pelas situações simples e pelo humor universal, sem precisar de palavras.",
+        "video": "https://www.youtube.com/embed/4Pe06zNnTvk?si=-S2R1_4YUGn2Jb9G"
+    },
+    {
+        "id": 8,
+        "title": "Scooby-Doo",
+        "image": "/images/cartoons/scooby-doo.jpeg",
+        "date": "1969",
+        "description": "Scooby-Doo e seus amigos da Máquina Mistério viajam juntos resolvendo casos cheios de fantasmas (ou pelo menos, o que parece ser fantasmas). Com muito humor e sustos divertidos, Fred, Daphne, Velma, Salsicha e o medroso Scooby-Doo mostram que com amizade e trabalho em equipe, todo mistério tem solução.",
+        "video": "https://www.youtube.com/embed/1j3zTuJiy0Q?si=uE1ZK3ifAqN2Kt66"
+    },
+    {
+        "id": 9,
+        "title": "Bob Esponja",
+        "image": "/images/cartoons/bob-esponja.jpeg",
+        "date": "1999",
+        "description": "Bob Esponja Calça Quadrada mora num abacaxi no fundo do mar e trabalha no Siri Cascudo. Ao lado de seus amigos Patrick, Sandy e até do mal-humorado Lula Molusco, ele vive aventuras, sempre com muito bom humor e situações inesperadas. Uma série cheia de criatividade, cores vibrantes e piadas para todas as idades.",
+        "video": "https://www.youtube.com/embed/6amyMiFnOf8?si=7x6ZjqU1hAXJdddJ"
+    },
+    {
+        "id": 10,
+        "title": "As Três Espiãs Demais",
+        "image": "/images/cartoons/as-tres-espias-demais.jpeg",
+        "date": "2001",
+        "description": "Sam, Clover e Alex são estudantes comuns em Beverly Hills... ou quase! Nas horas vagas, elas trabalham como espiãs secretas da WOOHP, uma organização que combate vilões ao redor do mundo. Com gadgets incríveis, disfarces e muita ação, elas enfrentam perigos enquanto tentam equilibrar a vida de agentes secretas com os desafios típicos da adolescência.",
+        "video": "https://www.youtube.com/embed/ScI7SBxBoLg?si=xUofX9Sg4_fH2VlF"
+    },
+    {
+        "id": 11,
+        "title": "Tom e Jerry",
+        "image": "/images/cartoons/tom-e-jerry.jpeg",
+        "date": "1940",
+        "description": "Tom, o gato, está sempre tentando capturar Jerry, o rato mais esperto da vizinhança. Mas, como sempre, o plano de Tom nunca dá certo! Com perseguições clássicas e muita criatividade, Tom e Jerry divertem gerações com suas confusões sem fim, quase sempre sem falas, mas com muita expressão e ação.",
+        "video": "https://www.youtube.com/embed/eFyadn0rKk4?si=9pzB9EG7TR6MswK_"
+    },
+    {
+        "id": 12,
+        "title": "Looney Tunes",
+        "image": "/images/cartoons/looney-tunes.jpeg",
+        "date": "1930",
+        "description": "Pernalonga é o coelho mais famoso dos desenhos animados! Inteligente, sarcástico e sempre com uma solução na manga (ou nas orelhas), ele vive escapando das armadilhas de seus inimigos como o Hortelino, o Patolino e o Marvin, o Marciano. Uma série cheia de humor, frases marcantes e situações inesperadas que fizeram história na animação.",
+        "video": "https://www.youtube.com/embed/LW0Wa8q3WaM?si=JYEfdcUf9fg0KWSn"
+    },
+    {
+        "id": 13,
+        "title": "Coragem, o Cão Covarde",
+        "image": "/images/cartoons/coragem.jpeg",
+        "date": "1999",
+        "description": "Coragem mora com seus donos, Muriel e Eustácio, numa casa isolada no meio do nada. Apesar de ser medroso, ele sempre acaba enfrentando criaturas estranhas, vilões assustadores e situações fora do comum para proteger sua família. Um desenho que mistura humor, suspense e um toque de terror (na medida certa para crianças!).",
+        "video": "https://www.youtube.com/embed/h62blag36uU?si=GP634uLpN_kCCF4a"
+    },
+    {
+        "id": 14,
+        "title": "As Aventuras de Jackie Chan",
+        "image": "/images/cartoons/jackie-chan.jpeg",
+        "date": "2000",
+        "description": "Inspirado no famoso ator Jackie Chan, a série acompanha o arqueólogo e mestre em artes marciais que, ao lado de sua sobrinha Jade e do Tio, enfrenta vilões, monstros e forças místicas enquanto busca proteger talismãs mágicos. Muita ação, comédia e ensinamentos sobre coragem e perseverança fazem parte de cada episódio.",
+        "video": "https://www.youtube.com/embed/FAhb_U7uBZI?si=reGbnykgprHzMqha"
+    },
+    {
+        "id": 15,
+        "title": "A Turma do Bairro",
+        "image": "/images/cartoons/a-turma-do-bairro.jpeg",
+        "date": "2002",
+        "description": "Na Turma do Bairro, um grupo de cinco crianças (Números Um, Dois, Três, Quatro e Cinco) formam uma organização secreta que luta contra as injustiças causadas pelos adultos e adolescentes. Com planos mirabolantes, invenções e missões de alto risco, eles mostram que a imaginação e o trabalho em equipe são as maiores armas de qualquer criança.",
+        "video": "https://www.youtube.com/embed/dR64XVJ3jR4?si=YfU9VWNVp0rk4jvA"
     }
 ]

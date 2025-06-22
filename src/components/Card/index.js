@@ -5,7 +5,7 @@ import { useFavoriteContext } from "contexts/FavoriteContext";
 import { useHalfFavoriteContext } from "contexts/HalfFavoriteContext";
 import { Link } from "react-router-dom";
 
-export default function Card({ id, image, title, date, description }) {
+export default function Card({ id, image, title, date, description, imagelink, reference }) {
     const [count, setCount] = useState(0);
     const [isFavorite, setIsFavorite] = useState(<TiHeartOutline />);
     const { favorite, addFavorite, removeFavorite } = useFavoriteContext();

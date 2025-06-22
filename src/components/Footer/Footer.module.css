@@ -1,7 +1,15 @@
 .footer {
-    padding: 16px;
+    display: flex;
+    flex-direction:column;
+    gap: 4px;
+    padding: 24px;
     background-color: var(--black);
     text-align: center;
     color: var(--white);
-    font-size: 24px;
+    font-size: 16px;
+}
+
+.image {
+    width: 15%;
+    height: 15%;
 }
