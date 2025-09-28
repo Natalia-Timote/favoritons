@@ -1,8 +1,8 @@
 ## ⭐ Favoritons
 
-O **Favoritons** é uma aplicação dedicada à nostalgia dos desenhos animados dos anos **90 e 2000**, onde é possível **navegar pelas animações e favoritar seus preferidos**. Criado a partir de um projeto base da Alura, o projeto foi adaptado para oferecer uma experiência afetiva e personalizada, explorando conceitos fundamentais de React e boas práticas de componentização.
+O **Favoritons** é uma aplicação dedicada à nostalgia dos desenhos animados dos anos **90 e 2000**, onde é possível **navegar pelas animações e favoritar seus preferidos**. Criado a partir de um projeto base da Alura, o projeto foi adaptado para oferecer uma experiência afetiva e personalizada, explorando conceitos fundamentais de **React e boas práticas de componentização**.
 
-![Static Badge](https://img.shields.io/badge/Alura-label?style=for-the-badge&label=Curso&color=%23000080)
+![Static Badge](https://img.shields.io/badge/Conclu%C3%ADdo-label?style=for-the-badge&label=Status) ![Static Badge](https://img.shields.io/badge/Alura-label?style=for-the-badge&label=Curso&color=%23000080)
 
 <hr>
 
